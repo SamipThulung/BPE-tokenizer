@@ -2,8 +2,9 @@
 A naive implementation of BPE tokenizer. Implementation include pretokens calculations, chunking, pairing, merging and training Tokenizer class.
 
 ## Dataset
-TinyStories
-OpenWeb
+1. TinyStories
+
+2. OpenWeb
 
 ## Examples Tokens created on TinyDataset. 
 
