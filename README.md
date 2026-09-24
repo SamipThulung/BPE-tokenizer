@@ -1,6 +1,10 @@
 # BPE-tokenizer
 A naive implementation of BPE tokenizer. Implementation include pretokens calculations, chunking, pairing, merging and training Tokenizer class.
 
+## Dataset
+TinyStories
+OpenWeb
+
 ## Examples Tokens created on TinyDataset. 
 
 ### Longest tokens
